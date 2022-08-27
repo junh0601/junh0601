@@ -1,8 +1,10 @@
-재밌으면 안가리고 다하는 사람의 Repository
+## Me
+- 재밌으면 안가리고 다합니다.
+- 취미로 개발합니다.
+- 최적화된 인생을 살고싶습니다.
 
 
-
-## tech
+## Tech
 
 #### 주력 기술
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

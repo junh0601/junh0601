@@ -3,6 +3,8 @@
 - 취미로 개발합니다.
 - 최적화된 인생을 살고싶습니다.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junh0601&&show_icons=true)]
+
 
 ## Tech
 
